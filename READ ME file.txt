@@ -1,3 +1,0 @@
-Prerequisites for project to work:
-- install lxml on conda using 'conda install lxml'
-- install beautifulsoup
